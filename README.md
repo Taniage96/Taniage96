@@ -5,7 +5,7 @@ Data Scientist | Project Manager
 Guatemala
 +502-56324777
 taniage96@hotmail.com
-[LinkedIn](www.linkedin.com/in/tania-iveth-giron-espana-73a8a6107)
+[LinkedIn](www.linkedin.com/in/tania-espana)
 
 ## Summary
 
