@@ -13,14 +13,7 @@ Data Scientist with a strong foundation in Technology Project Management (Gen AI
 
  I’m looking to collaborate on innovative data science projects, especially those involving machine learning and data analysis.
 
- In this repository, you will find a selection of my featured projects, including:
-
-* [Video Game Sales Prediction Project with Regression Models]()
-* Machine Learning Prototype for a Mining Company
-* Sentiment Analysis with NLP Techniques
-* Time Series Forecasting
-* Clustering and Anomaly Detection
-* Computer Vision Tasks using Deep Learning
+ In this repository, you will find a selection of my featured projects.
 <!--
 **Taniage96/Taniage96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
